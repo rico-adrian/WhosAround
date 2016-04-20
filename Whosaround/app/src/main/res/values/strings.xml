@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Whosaround</string>
+    <string name="title_activity_maps">Who\'s Around</string>
+    <string name="item1Title">Find Friends</string>
+</resources>

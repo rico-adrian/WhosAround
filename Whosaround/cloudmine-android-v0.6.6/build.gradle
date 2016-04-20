@@ -1,0 +1,2 @@
+configurations.create("default")
+artifacts.add("default", file('cloudmine-android-v0.6.6.jar'))
